@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build day03_05_Transaction/" type="GoApplicationRunConfiguration" factoryName="Go Application" singleton="false" nameIsGenerated="true">
+    <module name="GotoUTXO" />
+    <working_directory value="$PROJECT_DIR$" />
+    <go_parameters value="-i" />
+    <kind value="DIRECTORY" />
+    <filePath value="$PROJECT_DIR$/main.go|$PROJECT_DIR$/main.go" />
+    <directory value="$PROJECT_DIR$/day03_05_Transaction" />
+    <method v="2" />
+  </configuration>
+</component>
